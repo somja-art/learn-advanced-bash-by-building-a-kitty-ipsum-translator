@@ -41,3 +41,6 @@ bad_comand > stderr.txt
 bad_comand > stderr.txt
 echo bad_comand > stderr.txt
 bad_command > stderr.txt
+bad_command stderr 2 > stderr.txt
+bad_command 2 > stderr.txt
+bad_command 2> stderr.txt
