@@ -37,3 +37,7 @@ echo hello bash >> stdout.txt
 echo hello bash > stdout.txt
 > stdout.txt
 bad_command
+bad_comand > stderr.txt
+bad_comand > stderr.txt
+echo bad_comand > stderr.txt
+bad_command > stderr.txt
