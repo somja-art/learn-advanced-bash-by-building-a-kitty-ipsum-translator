@@ -35,3 +35,4 @@ echo hello bash > stdour.txt
 echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
 echo hello bash > stdout.txt
+> stdout.txt
