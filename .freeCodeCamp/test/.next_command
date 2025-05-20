@@ -45,3 +45,4 @@ bad_command stderr 2 > stderr.txt
 bad_command 2 > stderr.txt
 bad_command 2> stderr.txt
 echo hello bash > stdout.txt
+read NAME
