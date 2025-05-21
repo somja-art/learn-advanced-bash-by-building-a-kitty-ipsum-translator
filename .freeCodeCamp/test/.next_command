@@ -89,3 +89,6 @@ cat
 cat name.txt
 cat > name.txt
 cat < name.txt
+cat < Jose
+echo Jose
+echo Jose
