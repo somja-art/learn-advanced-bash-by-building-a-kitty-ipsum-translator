@@ -104,3 +104,8 @@ echo jose 2> stderr.txt
 echo jose
 echo jose > stdout.txt
 echo jose
+echo jose
+__vsc_prompt_cmd_original
+echo jose < name.txt
+echo jose > name.txt
+./script.sh < name.txt
