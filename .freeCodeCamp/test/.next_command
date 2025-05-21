@@ -87,3 +87,5 @@ echo Jose
 echo $NAME
 cat
 cat name.txt
+cat > name.txt
+cat < name.txt
