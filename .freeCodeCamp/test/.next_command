@@ -96,3 +96,4 @@ touch script.sh
 chmod +x script.sh
 clear
 ./script.sh
+./script.sh
