@@ -97,3 +97,6 @@ chmod +x script.sh
 clear
 ./script.sh
 ./script.sh
+./script.sh
+__vsc_prompt_cmd_original
+echo jose
