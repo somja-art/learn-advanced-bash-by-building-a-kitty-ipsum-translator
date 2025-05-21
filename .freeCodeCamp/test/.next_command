@@ -100,3 +100,5 @@ clear
 ./script.sh
 __vsc_prompt_cmd_original
 echo jose
+echo jose 2> stderr.txt
+echo jose
