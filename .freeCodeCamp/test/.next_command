@@ -93,3 +93,4 @@ cat < Jose
 echo Jose
 echo Jose
 touch script.sh
+chmod +x script.sh
