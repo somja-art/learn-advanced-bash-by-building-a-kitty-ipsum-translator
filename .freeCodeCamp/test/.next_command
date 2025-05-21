@@ -111,3 +111,5 @@ echo jose > name.txt
 ./script.sh < name.txt
 name.txt
 ./script.sh < name.txt 2> stderr.txt
+__vsc_prompt_cmd_original
+./script.sh < name.txt 2> stderr.txt > stdout.txt
