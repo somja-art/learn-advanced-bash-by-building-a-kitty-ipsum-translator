@@ -86,3 +86,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo Jose
 echo $NAME
 cat
+cat name.txt
