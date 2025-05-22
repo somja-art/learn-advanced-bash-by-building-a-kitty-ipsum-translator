@@ -200,3 +200,5 @@ __vsc_prompt_cmd_original
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt
 man grep
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt
+wc -l -o 'meow[a-z]*' kitty_ipsum_1.txt < grep
+grep -o 'meow[a-z]*' kitty_ipsum_1.txt
